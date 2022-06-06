@@ -1,2 +1,2 @@
-# API REST de Consulta de Cidades
+# Cities Query REST API
 
